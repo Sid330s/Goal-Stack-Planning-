@@ -10,7 +10,12 @@ Consider the following where wish to proceed from the start to goal state.
 
 ![alt text](https://users.cs.cf.ac.uk/Dave.Marshall/AI2/GSP.gif)
 
-# Output
+![Test Image 1](img/0001.jpg)
+
+
+# Output:
+
+![Test Image 2](img/0002.jpg)
 
 Blocks World Planning Examples
 What is the Blocks World? -- The world consists of:
