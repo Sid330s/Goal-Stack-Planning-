@@ -18,14 +18,15 @@ Consider the following where wish to proceed from the start to goal state.
 ![Test Image 2](img2.PNG)
 
 Blocks World Planning Examples
-What is the Blocks World? -- The world consists of:
+# What is the Blocks World? -- The world consists of:
 
 A flat surface such as a tabletop
 An adequate set of identical blocks which are identified by letters.
 The blocks can be stacked one on one to form towers of apparently unlimited height.
 The stacking is achieved using a robot arm which has fundamental operations and states which can be assessed using logic and combined using logical operations.
 The robot can hold one block at a time and only one block can be moved at a time.
-We shall use the four actions:
+
+# We shall use the four actions:
 
 UNSTACK(A,B)
 -- pick up clear block A from block B;
@@ -38,7 +39,8 @@ PICKUP(A)
 
 PUTDOWN(A)
 -- place the held block A onto a free space on the table.
-and the five predicates:
+
+# and the five predicates:
 
 ON(A,B)
 -- block A is on block B.
