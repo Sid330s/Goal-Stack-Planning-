@@ -29,21 +29,28 @@ We shall use the four actions:
 
 UNSTACK(A,B)
 -- pick up clear block A from block B;
+
 STACK(A,B)
 -- place block A using the arm onto clear block B;
+
 PICKUP(A)
 -- lift clear block A with the empty arm;
+
 PUTDOWN(A)
 -- place the held block A onto a free space on the table.
 and the five predicates:
 
 ON(A,B)
 -- block A is on block B.
+
 ONTABLE(A)
 -- block A is on the table.
+
 CLEAR(A)
 -- block A has nothing on it.
+
 HOLDING(A)
 -- the arm holds block A.
+
 ARMEMPTY
 -- the arm holds nothing.
