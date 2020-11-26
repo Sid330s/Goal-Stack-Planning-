@@ -19,7 +19,7 @@ Consider the following where wish to proceed from the start to goal state.
 
 ![Test Image 2](img2.PNG)
 
-Blocks World Planning Examples
+
 # What is the Blocks World? -- The world consists of:
 
 A flat surface such as a tabletop
