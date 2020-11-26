@@ -1,6 +1,8 @@
 # Goal Stack Planning
 Basic Idea to handle interactive compound goals uses goal stacks, Here the stack contains :
 
+![alt text](https://users.cs.cf.ac.uk/Dave.Marshall/AI2/GSP.gif)
+
 goals,
 operators -- ADD, DELETE and PREREQUISITE lists
 a database maintaining the current situation for each operator used.
@@ -8,7 +10,7 @@ Consider the following where wish to proceed from the start to goal state.
 
 # Input:
 
-![alt text](https://users.cs.cf.ac.uk/Dave.Marshall/AI2/GSP.gif)
+
 
 ![Test Image 1](img1.PNG)
 
